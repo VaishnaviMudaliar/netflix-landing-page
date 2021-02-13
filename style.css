@@ -3,6 +3,7 @@
   padding: 0;
   box-shadow: border-box;
   font-family: 'Poppins',sans-serif;
+  object-fit : contain
 
 }
 
