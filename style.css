@@ -204,7 +204,7 @@ border: 1px solid rgba(255, 255, 255, 0.1);
   margin-right: 10px;
   max-width: 50px;
 }
-.trailer{
+/* .trailer{
   position: fixed;
   top: 50%;
   left: 50%;
@@ -229,7 +229,7 @@ border: 1px solid rgba(255, 255, 255, 0.1);
   cursor: pointer;
   filter: invert(1);
   max-width: 32px;
-}
+} */
 
 
 
